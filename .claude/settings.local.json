@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /c/Github/poligun.github.io remote -v)",
+      "Bash(pnpm run build:*)"
+    ]
+  }
+}
